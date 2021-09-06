@@ -58,7 +58,7 @@ elif answer == "right":
                 answer = input("you picking up the gun or you flee?")
                 if answer == "gun":
                     print("you reach for the gun but the bear grabs a hold of your foot and drags you, you try to reach "
-                       "once more but the bear's strength is too much. The bear grabs your neck and rips your head off"
+                       "once more but the bear's strength is too much. The bear grabs your neck and rips your head off."
                        " R.I.P")
                 else:
                     print("Just before you leave through the back door, you get stopped by a floating, glowing figure. "
